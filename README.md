@@ -45,7 +45,9 @@ https://lookerstudio.google.com/reporting/34835fa2-6bbe-4725-bb27-813612460a79
 
 
 ** Engagement Insights **
+
 <img width="507" height="386" alt="engagement" src="https://github.com/user-attachments/assets/7e00688b-a28a-4b7a-9a7a-28025e74e78f" />
+
 
 
 Impact & Learnings:
