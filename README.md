@@ -45,7 +45,7 @@ https://lookerstudio.google.com/reporting/34835fa2-6bbe-4725-bb27-813612460a79
 <img width="1030" height="336" alt="Acquisition Section" src="https://github.com/user-attachments/assets/f57b5ec4-1a8a-4b9d-a4ee-c63986139535" />
 
 
-🔥 Engagement Insights
+## 🔥 Engagement Insights
 
 <img width="507" height="386" alt="engagement" src="https://github.com/user-attachments/assets/7e00688b-a28a-4b7a-9a7a-28025e74e78f" />
 
